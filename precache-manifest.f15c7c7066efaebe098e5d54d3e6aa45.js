@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe66b402a52c47788ad57803898c9d3a",
+    "revision": "e69516c0405fb399006d495d159d5bfc",
     "url": "/wizative-project/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wizative-project/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "4aa041529473662b4e28",
+    "revision": "8ed0da5c06dd8c19f547",
     "url": "/wizative-project/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wizative-project/static/js/2.96cb70bf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4aa041529473662b4e28",
-    "url": "/wizative-project/static/js/main.a67789bc.chunk.js"
+    "revision": "8ed0da5c06dd8c19f547",
+    "url": "/wizative-project/static/js/main.c0cea237.chunk.js"
   },
   {
     "revision": "661c7f823b49adc0c6c5",

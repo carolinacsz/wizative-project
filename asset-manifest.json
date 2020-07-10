@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wizative-project/static/css/main.5f361e03.chunk.css",
-    "main.js": "/wizative-project/static/js/main.a67789bc.chunk.js",
-    "main.js.map": "/wizative-project/static/js/main.a67789bc.chunk.js.map",
+    "main.js": "/wizative-project/static/js/main.c0cea237.chunk.js",
+    "main.js.map": "/wizative-project/static/js/main.c0cea237.chunk.js.map",
     "runtime-main.js": "/wizative-project/static/js/runtime-main.32881701.js",
     "runtime-main.js.map": "/wizative-project/static/js/runtime-main.32881701.js.map",
     "static/css/2.829c9cb5.chunk.css": "/wizative-project/static/css/2.829c9cb5.chunk.css",
     "static/js/2.96cb70bf.chunk.js": "/wizative-project/static/js/2.96cb70bf.chunk.js",
     "static/js/2.96cb70bf.chunk.js.map": "/wizative-project/static/js/2.96cb70bf.chunk.js.map",
     "index.html": "/wizative-project/index.html",
-    "precache-manifest.31b8ecedf4d89573479efb0a18550aba.js": "/wizative-project/precache-manifest.31b8ecedf4d89573479efb0a18550aba.js",
+    "precache-manifest.f15c7c7066efaebe098e5d54d3e6aa45.js": "/wizative-project/precache-manifest.f15c7c7066efaebe098e5d54d3e6aa45.js",
     "service-worker.js": "/wizative-project/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/wizative-project/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/wizative-project/static/css/main.5f361e03.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.96cb70bf.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.a67789bc.chunk.js"
+    "static/js/main.c0cea237.chunk.js"
   ]
 }
